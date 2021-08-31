@@ -89,7 +89,19 @@ export default function Home() {
           href="/stimulsoft/stimulsoft.viewer.office2013.whiteblue.css"
         />
       </Head>
-      <h1>Welcome Page</h1>
+      <div>
+        <h1>Report 2</h1>
+        <Link href="/">
+          <a style={{ marginLeft: "30px" }}>Index</a>
+        </Link>
+        <Link href="/report1">
+          <a style={{ marginLeft: "30px" }}>Report 1</a>
+        </Link>
+        <Link href="/report2">
+          <a style={{ marginLeft: "30px" }}>Report 2</a>
+        </Link>
+      </div>
+
       <div id="viewer" />
     </div>
   );
