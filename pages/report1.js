@@ -64,12 +64,7 @@ export default function Home() {
 
     console.log("Load report from url");
 
-    report.loadFile("/reports/PayrollRegister.mrt");
-
-    report.dictionary.variables.getByName("ReportName").valueObject =
-      "Payroll Register";
-
-    report.dictionary.variables.getByName("CompanyId").valueObject = 1;
+    report.loadFile("/reports/SimpleList.mrt");
 
     console.log(
       "Assigning report to the viewer, the report will be built automatically after rendering the viewer"
