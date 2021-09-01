@@ -196,10 +196,10 @@
     <value>Stimulsoft.Report.Dll</value>
   </ReferencedAssemblies>
   <ReportAlias>Report</ReportAlias>
-  <ReportChanged>8/9/2021 9:21:39 AM</ReportChanged>
+  <ReportChanged>9/1/2021 3:28:44 PM</ReportChanged>
   <ReportCreated>8/9/2021 8:18:55 AM</ReportCreated>
-  <ReportFile>C:\Users\IT-Louie\Desktop\LoanTypes.mrt</ReportFile>
-  <ReportGuid>a8fd3328c1bb41248b137cd85a490fa1</ReportGuid>
+  <ReportFile>C:\stimulsoft-nextjs\public\reports\LoanTypes.mrt</ReportFile>
+  <ReportGuid>4ba222474b6645f4802ed728aacb6c7e</ReportGuid>
   <ReportName>Report</ReportName>
   <ReportUnit>Inches</ReportUnit>
   <ReportVersion>2021.3.6.0</ReportVersion>

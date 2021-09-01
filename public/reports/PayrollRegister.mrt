@@ -5,7 +5,7 @@
     <Databases isList="true" count="1">
       <MySQL Ref="2" type="Stimulsoft.Report.Dictionary.StiMySqlDatabase" isKey="true">
         <Alias>MySQL</Alias>
-        <ConnectionStringEncrypted>41z1a8ZR+4XzFdWEY5zhP4t40UhhBUNZa0399Gc9sXvCpsmMyVlLyGIT2X3hTGVG2MT7SEZKw/zhSg==</ConnectionStringEncrypted>
+        <ConnectionStringEncrypted>42T1a81ZWmBFWt2E53T2Y4tU9aFDFfrN4hOh+GF04HuN8tkJT10B9WpFocx5QGUv1Gppy1tLo4VgSe19Zxh3e9Vg+w==</ConnectionStringEncrypted>
         <Key>ba5078fb90604524b4d437fa58841bc4</Key>
         <Name>MySQL</Name>
       </MySQL>
@@ -2350,10 +2350,10 @@ paydata_details.Employee.first_name}</Text>
     <value>Stimulsoft.Report.Dll</value>
   </ReferencedAssemblies>
   <ReportAlias>Report</ReportAlias>
-  <ReportChanged>8/17/2021 11:11:53 PM</ReportChanged>
+  <ReportChanged>8/31/2021 8:22:55 PM</ReportChanged>
   <ReportCreated>8/9/2021 8:18:55 AM</ReportCreated>
-  <ReportFile>C:\Users\user\Documents\applications\ismis-client\public\reports\PayrollRegister.mrt</ReportFile>
-  <ReportGuid>1d54d4bc313f47cfa38d31338ddd52cc</ReportGuid>
+  <ReportFile>C:\stimulsoft-nextjs\public\reports\PayrollRegister.mrt</ReportFile>
+  <ReportGuid>a223df4d370249149a606011f7b380d6</ReportGuid>
   <ReportName>Report</ReportName>
   <ReportUnit>Inches</ReportUnit>
   <ReportVersion>2021.3.6.0</ReportVersion>
